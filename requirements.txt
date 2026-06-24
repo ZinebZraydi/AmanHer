@@ -1,0 +1,9 @@
+flask
+flask-socketio
+flask-cors
+SpeechRecognition
+pyaudio
+geocoder
+python-dotenv
+requests
+eventlet
